@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **deepakpurohit2005@gmail.com**
 
-- ⚡ Fun fact **I am a lazy developer.**
+- ⚡ Fun fact : **I am a lazy developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
