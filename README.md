@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact : **I am a lazy developer.**
 - 
--     GSSoC 2026 Contributor & Campus Ambassador.**
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepakp7069756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakp7069756" height="30" width="40" /></a>
